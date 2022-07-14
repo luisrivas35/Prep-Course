@@ -1,0 +1,15 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+ * Variables: Son elementos que creamos dentro de nuestro codigo para que reciban algun valor, con la intencion de poder volver a usarlo mas adelante. Se denominan variables porque pueden cambiar su valor inicial a lo largo de la ejecucion de nuestro codigo.
+
+ * Strings: Se le llama asi a cualquier secuencia o cadena de uno o mas caracteres y se emplean para la manipulacion de texto.
+
+ * Funciones (argumentos, `return`): Las funciones son bloques de nuestro codigo con funciones especificas y que pueden ser invocadas a voluntad dentro de la logica del programa para evitarnos la repeticion de codigo innecesario. 
+ 
+ Los argumentos son elementos de codigo como las variables, que podemos pasar dentro de una funcion para que esta la use como insumo de entrada para realizar el procedimiento programado.
+
+ La clausula 'return' es una palabra reservada del lenguaje que indica que la funcion tendra un valor de retorno luego de ejecutar su codificacion.
+    
+ * Declaraciones `if`: Indica que a continuacion en el codigo viene una decision a tomar en base a las condiciones que especifiquemos, esto implica que a partir de cumplirse la condicion se ejecutara un codigo y caso contrario se tomara otra accion.
+
+ * Valores booleanos (`true`, `false`): Son los valores posibles para verdadero o falso como resultado de una evaluacion de una condicion en nuestro codigo.
