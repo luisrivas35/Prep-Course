@@ -1,0 +1,4 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Arrays: Son estructuras logicas que permiten organizar los elementos de informacion de manera temporal, para ejecutar acciones sobre ella. Puedecontener
+informacion de diferentes tipos y puede ser recorrida en secuencia para recuperar la informacion en ella.
