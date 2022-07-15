@@ -1,0 +1,12 @@
+Conceptos Homework 2:
+
+For: Es una de las estructuras fundamentales de cualquier logica, pues permite la repeticion de codigo tantas veces como consideremos necesario.
+Nos permite evaluar una determinada condicion repetidas veces a fin de conseguir un resultado deseado.
+
+&&: Se traduce "Y" e implica que se deben evaluar las condiciones en conjunto, por ejemplo A y B al mismo tiempo para que se cumpla la condicon.
+
+||: Se traduce "O" e implica que se debe evaluar cada condicion por separado, en caso de ser dos o mas. Por ejemplo, basta con que una de las condiciones
+ evaluadas cumpla con los parametros indicados para que la condicion sea cierta.
+
+ !: Este simbolo cambia el sentido del para metro evaluado. Es decir, al colocarlo delante de una variable estamos indicando que se evalue el valor esperado contrario
+ ejemplo if (!A === B). Aca estamos diciendo que si A no es igual que B, cuando la declaracion de base indica una evaluacion de igualdad.
