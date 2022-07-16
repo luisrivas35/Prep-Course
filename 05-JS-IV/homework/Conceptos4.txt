@@ -1,0 +1,12 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Objetos: Son la instanciacion o representacion de una 'clase' o elemento de la realidad que llevamos a lo abstracto, por ejemplo, la clase seria una persona que tiene una o varias caracteristicas y 
+una persona llamada Pedro seria la representacion de esas caracteristicas ya descritas en la clase persona.
+
+Propiedades: Las propiedades son esas caracteristicas que diferencian a Pedro de otra persona, por ejemplo, altura, nombre, direccion, peso, etc
+
+Métodos: Son la acciones que ese objeto esta programado para hacer. Entonces, Pedro puede caminar, comer, estudiar, amar, etc.
+
+Bucle for…in: Esta estructura de loop se comporta un poco diferente del clasico loop for, en este caso con la adicion de la particula 'in', se desplazara a traves de todas la ocurrencias de las claves-valor asociados al objeto que recorre..
+
+
